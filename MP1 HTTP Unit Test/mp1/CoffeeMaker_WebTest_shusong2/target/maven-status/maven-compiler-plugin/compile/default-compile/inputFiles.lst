@@ -1,0 +1,12 @@
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/db/CreateDBTables.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/Recipe.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/exceptions/InventoryException.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/db/InventoryDB.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/exceptions/RecipeException.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/Main.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/RecipeBook.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/db/DBConnection.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/db/RecipeBookDB.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/Inventory.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/CoffeeMaker.java
+/Users/susiesmac/Desktop/shusong2/mp1/CoffeeMaker_WebTest_shusong2/src/main/java/edu/ncsu/csc326/coffeemaker/db/PurchasedCoffeeDB.java
