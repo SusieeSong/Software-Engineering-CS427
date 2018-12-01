@@ -1,0 +1,8 @@
+/Testing/src/test/java/BlackBox/Setups/SortSetup.java
+/Testing/src/test/java/BlackBox/Setups/LruCacheSetup.java
+/Testing/src/test/java/WhiteBox/IpValidatorTest.java
+/Testing/src/test/java/BlackBox/PUTs/SortAlgorithmPUT.java
+/Testing/src/test/java/BlackBox/SortAlgorithmBlackBoxTest.java
+/Testing/src/test/java/BlackBox/PUTs/LruCachePUT.java
+/Testing/src/test/java/BlackBox/LruCacheBlackBoxTest.java
+/Testing/src/test/java/WhiteBox/BinaryTreeSerializerTest.java

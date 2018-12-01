@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="BlackBox.LruCacheBlackBoxTest" time="0.111" tests="14" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Testing/target/test-classes:/Testing/target/classes:/root/.m2/repository/junit/junit/4.12/junit-4.12.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-9-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/Testing/target/surefire/surefirebooter14928061280333838420.jar /Testing/target/surefire 2018-11-28T04-44-57_767-jvmRun1 surefire10302022151695805616tmp surefire_011529006798391014301tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Testing/target/test-classes:/Testing/target/classes:/root/.m2/repository/junit/junit/4.12/junit-4.12.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/root"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="/usr/lib/jvm/java-9-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Testing"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Testing/target/surefire/surefirebooter14928061280333838420.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="9.0.4+12-Debian-4"/>
+    <property name="user.name" value="root"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="4.9.125-linuxkit"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/root/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="9.0.4"/>
+    <property name="user.dir" value="/Testing"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="9.0.4+12-Debian-4"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="53.0"/>
+  </properties>
+  <testcase name="testGetSameKeyMultipleTimes" classname="BlackBox.LruCacheBlackBoxTest" time="0.086"/>
+  <testcase name="testGetKeyNotExist" classname="BlackBox.LruCacheBlackBoxTest" time="0"/>
+  <testcase name="dummyTest" classname="BlackBox.LruCacheBlackBoxTest" time="0.001"/>
+  <testcase name="testPutTwoElemSmallerThanCapacity" classname="BlackBox.LruCacheBlackBoxTest" time="0"/>
+  <testcase name="testPutCapacityZero" classname="BlackBox.LruCacheBlackBoxTest" time="0"/>
+  <testcase name="dummyTest2" classname="BlackBox.LruCacheBlackBoxTest" time="0"/>
+  <testcase name="testPutThreeElemGreaterThanCapacityOne" classname="BlackBox.LruCacheBlackBoxTest" time="0.001"/>
+  <testcase name="testPutThreeElemGreaterThanCapacityTwo" classname="BlackBox.LruCacheBlackBoxTest" time="0"/>
+  <testcase name="Test3" classname="BlackBox.LruCacheBlackBoxTest" time="0"/>
+  <testcase name="Test4" classname="BlackBox.LruCacheBlackBoxTest" time="0"/>
+  <testcase name="Test5" classname="BlackBox.LruCacheBlackBoxTest" time="0.002"/>
+  <testcase name="testPutTwoElemEqualsCapacity" classname="BlackBox.LruCacheBlackBoxTest" time="0"/>
+  <testcase name="testPutOneElemSmallerThanCapacity" classname="BlackBox.LruCacheBlackBoxTest" time="0"/>
+  <testcase name="testLargeInput" classname="BlackBox.LruCacheBlackBoxTest" time="0.005"/>
+</testsuite>
